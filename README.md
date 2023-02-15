@@ -34,3 +34,8 @@ A simple patient management system that allows doctors to manage patient records
 3. Windows warn about security click More info > Run Anyway .
 4. ``` username = admin password = admin ``` Don't Worry you can change it via settings options :grin:
 5. Give Feedback ! 
+
+# ScreenShots!
+
+## Dashboard 
+![Dashboard Screenshot of desktop application](https://github.com/shivam-soni-333/Patient-Managment-System/blob/main/screenshots_of_software/dashboard.png)
