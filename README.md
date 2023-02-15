@@ -26,6 +26,7 @@ A simple patient management system that allows doctors to manage patient records
 - How to Generate pdf from python with reportlab library.
 - How to use theme in python desktop application.
 - How to manage auto increment ids.
+- How to give shortcut keys to make desktop application more userfriendly.
 
 ## Review My Project
 1. Download Zip From Here :point_right: (https://drive.google.com/file/d/1cqx0kmtczK8yThuLxeHjaCO94YwlXtpx/view?usp=sharing)
