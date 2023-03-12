@@ -1,4 +1,4 @@
-# Patient Managment System - For Doctors :health_worker:
+# Patient Management System - For Doctors :health_worker:
 
 A simple patient management system that allows doctors to manage patient records, prescriptions, and billing. With this system, doctors can easily add patients and their basic information, medical history, and complaints. Doctors can also prescribe medications, and the system will automatically calculate the total bill. Additionally, the system provides a feature to generate and print PDFs of prescriptions, receipts, and summaries. It also allows doctors to filter and view receipts and collections reports based on department-wise and year-wise.
 
